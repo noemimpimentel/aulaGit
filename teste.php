@@ -1,1 +1,1 @@
-<?php echo"teste um" ?>
+<?php echo"testando git bash" ?>
